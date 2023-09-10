@@ -4,7 +4,7 @@ import FlashCard from './FlashCard'
 const FlashDeals = ({productItems ,addToCart }) => {
   return (
     <>
-    <section className="flash">
+    <section className="flash" style={{marginTop:"100cpx"}}>
         <div className="container">
           <div className="heading f_flex">
           <i className="fa fa-bolt"></i>
